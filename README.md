@@ -1,4 +1,2 @@
 # AIML-2024-2-2
-AIML LAB-1
-AIML LAB-2
-AIML LAB-3
+[AIML LAB-1](https://github.com/kothaAbhinayasri/AIML-2024.git)
